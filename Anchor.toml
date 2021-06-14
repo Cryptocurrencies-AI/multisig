@@ -1,2 +1,9 @@
+[provider]
 cluster = "localnet"
 wallet = "~/.config/solana/id.json"
+
+[clusters.devnet]
+multisig = "F3Uf5F61dmht1xuNNNkk3jnzj82TY56vVjVEhZALRkN"
+
+[clusters.mainnet]
+multisig = "A9HAbnCwoD6f2NkZobKFf6buJoN9gUVVvX5PoUnDHS6u"
